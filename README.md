@@ -13,7 +13,7 @@ Frontend & Full Stack Developer passionate about crafting modern, responsive, an
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasp.pankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jasp.pankaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jasppankaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=jasp.pankaj&icon=0&color=0)](https://visitcount.itsvg.in)
